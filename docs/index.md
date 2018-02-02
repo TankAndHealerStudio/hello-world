@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Official Documentation for the Ultimate Touchpad
 
 You can use the [editor on GitHub](https://github.com/TankAndHealerStudio/hello-world/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
